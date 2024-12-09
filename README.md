@@ -8,6 +8,7 @@ The third project is a Cesar Encryptor
 The fourth project is a Calculator
 The fifth project is a ToDo App
 The sixth project is the Hangedman game
+The seventh project is color palette
 ## Purpose
 
 The purpose of the project is to practice.
